@@ -16,16 +16,28 @@ Keywords: Machine learning; unsupervised learning; image processing; mycelium; m
 Content of file Dataset_PoreMap_Mycelium.xlsx:
 
 poreID:  A unique number identifier for each pore counted in the image analyzed (pore map generated from SEM micrograph)
+
 Area: List of all of the black pixel clusters’ numbers of black pixels that are not in a pore that touches the side of the image
+
 Perimeter: The number of pixels in the perimeter of each pore.
+
 Major: The length of the primary axis of the best fitting ellipse for each pore (major axis of ellipse)
+
 Minor: The length of the secondary axis of the best fitting ellipse for each pore (minor axis of ellipse)
+
 Angle: The angle between the major axis of the pore and a line parallel to the x-axis of the image
+
 Circularity: (4π × [Area]) / [Perimeter^2] where a value of 1.0 indicates a perfect circle. As the value approaches 0.0, it indicates an increasingly elongated shape. Values may not be valid for very small pores
+
 AspectRatio:  The aspect ratio of the particle’s fitted ellipse, i.e., [Major Axis] / [Minor Axis]
+
 Roundness:  (4 × [Pore Area]) / (π × [Major axis]2) or the inverse of Aspect Ratio
+
 Solidity: [Pore Area] / [Convex area of Pore]
-Pore.Class: Proposed supervised classification of pores. The class can be regular (accurate identification of a pore), or an artifact of the image processing, shade or overlap (of fibers)
+
+Pore.Class: Proposed supervised classification of pores. The class can be regular (accurate identification of a pore), or an 
+artifact of the image processing, shade or overlap (of fibers)
+
 Class.Detail: A more detailed classification for purposes of unsupervised classification experiment and future work (e.g.: shade can be a background shade or a fiber shade)
 
 
