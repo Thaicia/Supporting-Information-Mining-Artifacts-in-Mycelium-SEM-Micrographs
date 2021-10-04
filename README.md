@@ -42,3 +42,7 @@ Class.Detail: A more detailed classification for purposes of unsupervised classi
 
 
 ![PoreMap_Mycelium_Highlighted_Small_Artifacts](https://user-images.githubusercontent.com/58062750/135920627-aae555e1-bdc5-4fd5-b475-e347d09846ba.png)
+
+![OriginalOverlap_Highlighted](https://user-images.githubusercontent.com/58062750/135936989-540e3cc6-848a-44c5-91d4-3de4de077e1a.png)
+
+
