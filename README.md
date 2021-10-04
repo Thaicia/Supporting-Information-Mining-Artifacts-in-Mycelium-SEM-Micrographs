@@ -1,7 +1,7 @@
 # Supporting-Information-Mining-Artifacts-in-Mycelium-SEM-Micrographs
 Supporting information to preprint Mining Artifacts in Mycelium SEM Micrographs, Thaicia Stona de Almeida: mycelium pore map dataset
 
-The micrograph studied was provided by Ecovative Design LLC, in the context of the collaboration with Dr. Prathima Nalam's research project 'Mechanics and Morphology of Mycelium', University at Buffalo.
+The micrograph studied was provided by Ecovative Design LLC, in the context of the collaboration with Dr. Prathima Nalam's research project, 'Mechanics and Morphology of Mycelium', University at Buffalo.
 
 Preprint: Mining Artifacts in Mycelium SEM Micrographs
 
